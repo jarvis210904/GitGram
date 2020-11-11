@@ -6,3 +6,5 @@ PROJECT_NAME = "JarvisUserbot"
 
 # If you forked the source code, grab your repo's link and paste it below!
 GIT_REPO_URL = "https://github.com/Jarvis-Works/JarvisUserbot"
+
+APP_URL = "https://jarvisgitgram.herokuapp.com/-1001492280721"
